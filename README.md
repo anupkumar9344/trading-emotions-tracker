@@ -102,7 +102,7 @@ A comprehensive web application for tracking trading psychology and strategy adh
 
 ```bash
 git clone <repository-url>
-cd sstock-strategy
+cd trading-emotions-tracker
 ```
 
 ### Step 2: Install PHP Dependencies
@@ -291,7 +291,7 @@ Trade → hasOne → TradeReview
 ## 📁 Project Structure
 
 ```
-sstock-strategy/
+trading-emotions-tracker/
 ├── app/
 │   ├── Http/
 │   │   ├── Controllers/
